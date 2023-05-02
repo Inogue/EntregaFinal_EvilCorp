@@ -1,1 +1,2 @@
 # EntregaFinal_EvilCorp
+Hay algunas partes que están subrayadas y no se por que y a la hora de entregar el trabajo no me di cuenta de esto. No lo voy a cambiar para que no se modifique la fecha de entrega y pueda haber alguna confusión. 
